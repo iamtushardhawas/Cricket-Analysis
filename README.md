@@ -44,3 +44,8 @@ This project is designed for:
 🌟Scatter plot analysis for strike rate vs batting average.
 🌟Performance KPIs to identify top players.
 🌟Helps visualize and select the Best 11 performers based on real data.
+
+
+6 Screenshot/Demos
+Take a look how the dashboard is:
+https://github.com/iamtushardhawas/Cricket-Analysis/blob/main/Analysis.jpeg
